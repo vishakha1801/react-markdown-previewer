@@ -7,6 +7,7 @@ challenge
 You can check it working [here](https://codepen.io/vishakha1801/full/ExZmjza).
 
 ## Screenshot
+![img](https://github.com/vishakha1801/react-markdown-previewer/blob/main/Screenshot%20(3).png)
 
 ## Objective
 
